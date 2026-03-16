@@ -1,4 +1,3 @@
-:
 
 🌟 MERN Chat App 💬
 
